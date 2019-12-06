@@ -42194,7 +42194,7 @@ t.l(0,"content",u.Q)
 t.l(0,"imgUrl",u.ch)
 return t}}
 N.Bm.prototype={
-Hw:function(){var u,t,s=P.bk(["version","1.0.0"],P.b,null)
+Hw:function(){var u,t,s=P.bk(["Access-Control-Allow-Origin","*"],P.b,null)
 s=B.a3f("https://secsimg.com/",1e4,J.aX($.a1z()),s,5000,C.lD)
 this.a=s
 u=new L.Fy(H.c([],[L.ff]),new L.mA(),new L.mA(),new L.mA())
